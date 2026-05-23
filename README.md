@@ -74,7 +74,7 @@
 - 📱 Cross-platform iOS & Android
 - 🎨 Clean modern mobile UI
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amjadazizshah/luna-ai)
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amjadazizshah/LunaAI)
 
 </td>
 
