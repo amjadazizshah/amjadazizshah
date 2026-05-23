@@ -17,7 +17,6 @@
 - 📱 Building cross-platform **mobile apps** with React Native
 - 🌐 Developing full-stack **web apps** with React + Django
 - 🔌 Designing scalable **REST APIs** with Django REST Framework
-- 🤖 Also founder of **Risel Growth Agency** — Social Media & AI Automation
 - 📚 Currently deepening knowledge in **TypeScript** and **System Design**
 - ⚡ Fun fact: I build products by day and grow brands by night
 
