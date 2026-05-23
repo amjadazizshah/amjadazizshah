@@ -10,19 +10,14 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const amjad = {
-  name:        "Amjad Aziz Shah",
-  location:    "Pakistan 🇵🇰",
-  role:        "Software Engineer",
-  code:        ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
-  frameworks:  ["React Native", "React", "Django", "Django REST Framework"],
-  tools:       ["Git", "GitHub", "VS Code", "Postman", "Redux"],
-  databases:   ["PostgreSQL", "SQLite", "Firebase"],
-  currentFocus: "Building cross-platform mobile & web applications",
-  funFact:     "I also run a social media growth agency 🚀"
-};
-```
+- 👨‍💻 **Software Engineer** with experience in React Native, React & Django
+- 📍 Based in **Pakistan** — open to remote opportunities worldwide
+- 📱 Building cross-platform **mobile apps** with React Native
+- 🌐 Developing full-stack **web apps** with React + Django
+- 🔌 Designing scalable **REST APIs** with Django REST Framework
+- 🤖 Also founder of **Risel Growth Agency** — Social Media & AI Automation
+- 📚 Currently deepening knowledge in **TypeScript** and **System Design**
+- ⚡ Fun fact: I build products by day and grow brands by night
 
 ---
 
@@ -117,10 +112,9 @@ const amjad = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riselgrowthagency@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amjadshahg26@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amjadazizshah)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923358169111)
-[![Website](https://img.shields.io/badge/Website-007300?style=for-the-badge&logo=google-chrome&logoColor=white)](https://riselgrowthagency.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923295015604)
 
 </div>
 
