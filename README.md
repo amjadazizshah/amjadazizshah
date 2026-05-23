@@ -4,11 +4,7 @@
 
 <br/>
 
-<img src="https://i.ibb.co/RZkkcQw/Whats-App-Image-2026-04-29-at-7-45-34-PM.jpg" width="150" height="150" style="border-radius:50%" alt="Amjad Aziz Shah"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer+%F0%9F%9A%80;React+Native+%7C+React+%7C+Django+Developer;Building+Products+That+Matter+%F0%9F%92%AB;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+<br/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer+%F0%9F%9A%80;React+Native+%7C+React+%7C+Django+Developer;Building+Products+That+Matter+%F0%9F%92%AB;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
 
 </div>
 
@@ -101,7 +97,6 @@
 - ✨ Smooth scroll animations
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amjadazizshah/Risel-Agency)
-[![Live Site](https://img.shields.io/badge/Live%20Site-007300?style=for-the-badge&logo=google-chrome&logoColor=white)](https://riselgrowthagency.com)
 
 </td>
 
@@ -166,7 +161,6 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riselgrowthagency@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amjadazizshah)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923358169111)
-[![Website](https://img.shields.io/badge/Website-007300?style=for-the-badge&logo=google-chrome&logoColor=white)](https://riselgrowthagency.com)
 
 </div>
 
