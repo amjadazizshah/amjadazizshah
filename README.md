@@ -18,7 +18,6 @@
 - 🌐 Developing full-stack **web apps** with React + Django
 - 🔌 Designing scalable **REST APIs** with Django REST Framework
 - 📚 Currently deepening knowledge in **TypeScript** and **System Design**
-- ⚡ Fun fact: I build products by day and grow brands by night
 
 ---
 
